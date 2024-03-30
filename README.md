@@ -10,4 +10,10 @@ Control de inventario para mantener actualizada la cantidad de medicamentos disp
 Administración de usuarios con diferentes niveles de acceso (administrador, empleado).
 Funcionalidad para realizar compras de medicamentos.
 Generación de facturas para las compras realizadas.
-Capturas de pantalla
+
+<img src="https://github.com/ferchris82/Farmacia/blob/master/src/images/LoginFarmacia.png" width="800" height="500">
+<img src="https://github.com/ferchris82/Farmacia/blob/master/src/images/ImagenCategorias.png" width="800" height="500">
+<img src="https://github.com/ferchris82/Farmacia/blob/master/src/images/ImagenProductos.png" width="800" height="500">
+
+
+
